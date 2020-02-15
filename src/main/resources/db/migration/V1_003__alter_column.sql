@@ -1,0 +1,1 @@
+ALTER TABLE TB_USER ALTER COLUMN password varchar(100);
